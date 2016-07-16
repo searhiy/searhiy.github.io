@@ -1,4 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
-node_modules
+node_modules/*
+!node_modules/angular2-in-memory-web-api
+!node_modules/browser-sync*
 typings
+npm-debug.log
