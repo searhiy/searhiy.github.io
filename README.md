@@ -1,2 +1,1 @@
-# skartashov
-card webcite
+# card website for Serhii Kartashov
